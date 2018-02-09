@@ -7,3 +7,6 @@ Proxy Switcher lets you change Firefox proxy settings (preferences) from a toolb
 
 # Contribution
 Please feel free to clone this repo and open pull requests or report issues.
+
+
+浏览器firefox的代理切换，但不支持pac script
